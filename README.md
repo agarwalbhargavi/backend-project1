@@ -1,17 +1,21 @@
-🏦 Bank Transaction System Backend
+<h1 align="center">
+  🏦 <strong>BANK TRANSACTION SYSTEM</strong>
+</h1>
 
-A Secure REST API-Based Banking System Built with Node.js, Express.js & MongoDB
+<h2 align="center">
+  <strong>Secure Banking Backend & REST API Architecture</strong>
+</h2>
 
 <p align="center">
-  <strong>Secure transactions. Reliable fund transfers. Consistent financial records.</strong>
+  <strong>Secure Fund Transfers, Ledger-Based Transactions & Reliable Account Management</strong>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-REST%20API-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-REST%20APIs-black?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-Authentication-purple?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-RESTful-blue" />
-  <img src="https://img.shields.io/badge/Status-Backend%20Project-success" />
 </p>
 
 ⸻
